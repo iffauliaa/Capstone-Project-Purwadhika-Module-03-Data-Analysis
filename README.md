@@ -70,10 +70,10 @@ Place
 
 # 5.  DATA ANALYSIS
 Outline:
--Demographic Analysis
--Customer behaviour Analysis
--Marketing/Campaign Analysis
--LRFM Analysis
+- Demographic Analysis
+- Customer behaviour Analysis
+- Marketing/Campaign Analysis
+- LRFM Analysis
 
 # 6. CONCLUSION & RECOMMENDATION
 ## Conclusion
