@@ -69,6 +69,11 @@ Place
 * NumWebVisitsMonth: Number of visits to the company’s website in the last month
 
 # 5.  DATA ANALYSIS
+Outline:
+-Demographic Analysis
+-Customer behaviour Analysis
+-Marketing/Campaign Analysis
+-LRFM Analysis
 
 # 6. CONCLUSION & RECOMMENDATION
 ## Conclusion
