@@ -74,6 +74,7 @@ Outline:
 - Customer behaviour Analysis
 - Marketing/Campaign Analysis
 - LRFM Analysis
+- Data Visualization via Looker [link](https://lookerstudio.google.com/reporting/21a6aa4c-3343-430d-965c-07e1eea0e968)
 
 # 6. CONCLUSION & RECOMMENDATION
 ## Conclusion
